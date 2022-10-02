@@ -1,2 +1,2 @@
-# project1
-javascript,HTML,css,JSP를 이용한 영상처리
+# test1
+javascript, jsp 영상처리
